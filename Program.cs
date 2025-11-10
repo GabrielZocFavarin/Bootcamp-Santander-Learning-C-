@@ -15,6 +15,9 @@ while (quantidade > 0)
     quantidade--;
 }
 
+DateTime dataAtual = DateTime.Now;
+Console.WriteLine($"Data Atual: {dataAtual}");
+
 // Console.WriteLine(" O começo de tudo! O recomeço... ");
 
 // Console.WriteLine(" A vida é feita de ciclos. ");
