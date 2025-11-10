@@ -1,0 +1,15 @@
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\bin\Debug\net9.0\Bootcamp-Santander-Learning-C-.exe
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\bin\Debug\net9.0\Bootcamp-Santander-Learning-C-.deps.json
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\bin\Debug\net9.0\Bootcamp-Santander-Learning-C-.runtimeconfig.json
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\bin\Debug\net9.0\Bootcamp-Santander-Learning-C-.dll
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\bin\Debug\net9.0\Bootcamp-Santander-Learning-C-.pdb
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\obj\Debug\net9.0\Bootcamp-Santander-Learning-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\obj\Debug\net9.0\Bootcamp-Santander-Learning-C-.AssemblyInfoInputs.cache
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\obj\Debug\net9.0\Bootcamp-Santander-Learning-C-.AssemblyInfo.cs
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\obj\Debug\net9.0\Bootcamp-Santander-Learning-C-.csproj.CoreCompileInputs.cache
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\obj\Debug\net9.0\Bootcamp-Santander-Learning-C-.sourcelink.json
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\obj\Debug\net9.0\Bootcamp-Santander-Learning-C-.dll
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\obj\Debug\net9.0\refint\Bootcamp-Santander-Learning-C-.dll
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\obj\Debug\net9.0\Bootcamp-Santander-Learning-C-.pdb
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\obj\Debug\net9.0\Bootcamp-Santander-Learning-C-.genruntimeconfig.cache
+C:\Users\pvpma\Downloads\Fava Projects\Dev\Bootcamp-Santander-Learning-C-\obj\Debug\net9.0\ref\Bootcamp-Santander-Learning-C-.dll
