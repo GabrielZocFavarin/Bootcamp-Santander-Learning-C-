@@ -3,23 +3,35 @@ using Bootcamp_Santander_Learning_C_.Models;
 
 Console.WriteLine("Hello, World!");
 
-Console.WriteLine(" O começo de tudo! O recomeço... ");
+//Relembrando declarar Variáveis
 
-Console.WriteLine(" A vida é feita de ciclos. ");
+string favaGabriel = "Fava do Gabriel";
+Console.WriteLine(favaGabriel);
+int quantidade = 10;
 
-Console.WriteLine(" Sempre haverá um novo amanhecer. ");
+while (quantidade > 0)
+{
+    Console.WriteLine(quantidade);
+    quantidade--;
+}
 
-Pessoa p = new Pessoa("Gabriel");
+// Console.WriteLine(" O começo de tudo! O recomeço... ");
 
-Pessoa p1 = new Pessoa("Ana Maria");
+// Console.WriteLine(" A vida é feita de ciclos. ");
 
-Pessoa p2 = new Pessoa("João do TEF");
+// Console.WriteLine(" Sempre haverá um novo amanhecer. ");
 
-p2.Idade = 25;
+// Pessoa p = new Pessoa("Gabriel");
 
-p.Apresentar();
-p1.Apresentar();
-p2.Apresentar();
+// Pessoa p1 = new Pessoa("Ana Maria");
+
+// Pessoa p2 = new Pessoa("João do TEF");
+
+// p2.Idade = 25;
+
+// p.Apresentar();
+// p1.Apresentar();
+// p2.Apresentar();
 
 
 
