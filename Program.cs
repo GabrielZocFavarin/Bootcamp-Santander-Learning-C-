@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Runtime.CompilerServices;
 using Bootcamp_Santander_Learning_C_.Models;
 
 Console.WriteLine("Hello, World!");
@@ -37,6 +38,24 @@ Console.WriteLine(a);
 // Vai dar erro porque está esperando uma String e vem um Int, ou seja, precisarei realizar a conversão, como demonstrado embaixo.
 
 // usar convert.tostring é redundante, o correto é apenas a utilização ToString().
+
+// toda classe vai herder de uma classe-mãe OBJECT, e nela haverá o método ToString().
+
+int ab = 5;
+double ba = ab; // Aqui está ocorrendo um Cast Implícito, isso porque eventualmente um INTEIRO cabe em um DOUBLE.
+Console.WriteLine(ba);
+
+// Cast Implicito => Uma conversão de diferentes tipos que você não precisa utilizar porque o C# faz pra tu.
+
+// Como realizar isto de forma segura?
+
+string x = "15";
+
+int.TryParse(x, out int y);
+
+Console.WriteLine(y);
+Console.WriteLine(" Conversão realizada com sucesso! ");
+
 
 // Console.WriteLine(" O começo de tudo! O recomeço... ");
 
