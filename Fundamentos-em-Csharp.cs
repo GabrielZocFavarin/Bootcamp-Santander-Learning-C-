@@ -33,8 +33,6 @@ class Program
             quantidade--;
         }
 
-        Console.WriteLine("\n");
-
         // ---------------------------
         // DATA E HORA
         // ---------------------------
@@ -61,7 +59,6 @@ class Program
         {
             Console.WriteLine("Falha na conversão com TryParse!");
         }
-        Console.WriteLine();
 
         // ---------------------------
         // CAST IMPLÍCITO E EXPLÍCITO
@@ -74,6 +71,8 @@ class Program
         int valorInteiro = (int)valorDecimal; // explícito (perde a parte decimal)
         Console.WriteLine($"Cast Explícito: double -> int = {valorInteiro}\n");
 
+        // Ou seja, o explicito ocorre quando há perdas para a conversão, e Implícito vice-versa.
+
         // ---------------------------
         // CONDICIONAIS
         // ---------------------------
@@ -83,7 +82,6 @@ class Program
         else
             Console.WriteLine($"{numero} é ímpar!");
 
-        Console.WriteLine();
 
         // ---------------------------
         // LISTAS
@@ -97,7 +95,6 @@ class Program
         {
             Console.WriteLine($"- {fruta}");
         }
-        Console.WriteLine();
 
         // ---------------------------
         // MÉTODOS
@@ -106,7 +103,7 @@ class Program
         int subtracao = Subtrair(20, 8);
 
         Console.WriteLine($"Soma: {soma}");
-        Console.WriteLine($"Subtração: {subtracao}\n");
+        Console.WriteLine($"Subtração: {subtracao}");
 
         // ---------------------------
         // CLASSES E OBJETOS
@@ -118,8 +115,6 @@ class Program
         p.Apresentar();
         p1.Apresentar();
         p2.Apresentar();
-
-        Console.WriteLine("\n=== Fim do Programa ===");
     }
 
     // ---------------------------
