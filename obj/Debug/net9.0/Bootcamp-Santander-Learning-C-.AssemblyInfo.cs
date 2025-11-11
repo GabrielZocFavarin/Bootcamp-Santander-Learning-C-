@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bootcamp-Santander-Learning-C-")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53fb314f376d96c0abf4cfbed9c266d073e93447")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f22b9dfeaeb0293f33c37b236b707c45371ec269")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bootcamp-Santander-Learning-C-")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bootcamp-Santander-Learning-C-")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
