@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using Bootcamp_Santander_Learning_C_.Models;
 
-class Program
+class Program3
 {
     static void Main(string[] args)
     {

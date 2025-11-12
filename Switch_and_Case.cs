@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using Bootcamp_Santander_Learning_C_.Models;
 
-class Program3
+class Program4
 {
     static void Main(string[] args)
     {
